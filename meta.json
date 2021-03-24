@@ -3,5 +3,6 @@
 "description": "Single pool owner in Wales/Cymru. Committed to decentralisation, independent, run from Raspberry Pi by long-term Cardanoista.",
 "ticker": "OYSTR",
 "homepage": "https://twitter.com/OystrPool",
+"nonce": "1616617757",
 "extended": "https://raw.githubusercontent.com/OYSTERPOOL/GIT/main/ext_meta.json"
 }
