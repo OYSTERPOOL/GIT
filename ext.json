@@ -1,18 +1,60 @@
-{
-       "info": {        
+{    
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
         "location": "Wales, United Kingdom",
         "social": {
-            "twitter_handle": "OystrPool",            
+            "twitter_handle": "OystrPool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "Wales",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": "Single Pool Operator",
-            "server":
+            "server": "",
+            "company": "..."
+        },
+        "rss": ""
     },
     "my-pool-ids": {
-        "0": "febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d"
+        "0": "febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
+        "1": ""
     },
     "when-satured-then-recommend": {
-        "0": "small pools - support decentralization"
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
     }
-}
 }
